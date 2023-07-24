@@ -28,7 +28,7 @@ Close-: The closing price refers to a stock's trading price closed at the end of
 7. Selecting the best model.
 8. Model Deployment.
 
-* Conclusion-
+* CONCLUSION -
 
 Closing Price of a stock refers to the final price at which the stock is traded on a particular stock exchange on a given trading day. It is the last price at which the stock is bought or sold during the trading session.
 
@@ -38,7 +38,7 @@ For an Average Investor: An average investor sees investing in stocks for long-t
 
 For a Traders: For traders and analysts, the information on the closing price of stocks is essential to make sure that they make sound trading decisions and maximize returns on their portfolios.
 
-* Models Implemented
+* Models Implemented -
 
 * I have implemented six models/Algorithms- Linear Regression,Lasso Reguralization,Ridge Reguralization,Elastic Net, Random Forest Regressor, XG BOSST Regressor.
 
