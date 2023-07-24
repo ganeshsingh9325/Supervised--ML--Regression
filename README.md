@@ -38,7 +38,7 @@ For an Average Investor: An average investor sees investing in stocks for long-t
 
 For a Traders: For traders and analysts, the information on the closing price of stocks is essential to make sure that they make sound trading decisions and maximize returns on their portfolios.
 
-* Models Implemented -
+* MODEL IMPLEMENTED-
 
 * I have implemented six models/Algorithms- Linear Regression,Lasso Reguralization,Ridge Reguralization,Elastic Net, Random Forest Regressor, XG BOSST Regressor.
 
